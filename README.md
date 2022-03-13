@@ -2,7 +2,7 @@
 GAN-BASED DATA AUGMENTATION for RAMAN SPECTRA
 A generative adversarial network implementation in TensorFlow to perform data augmentation of biomedical Raman spectra.
 
-# Requirements
+## Requirements
 tensorflow 2.6.0 (Requires: absl-py, protobuf, tensorflow-estimator, keras-preprocessing, 
 astunparse, six, wheel, grpcio, flatbuffers, clang, h5py, tensorboard, 
 gast, opt-einsum, termcolor, wrapt, keras, numpy, google-pasta, typing-extensions)
