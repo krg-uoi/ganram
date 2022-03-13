@@ -1,5 +1,6 @@
 # ganram
-GAN-BASED DATA AUGMENTATION for RAMAN SPECTRA
+GAN-BASED DATA AUGMENTATION for RAMAN SPECTRA 
+
 A generative adversarial network implementation in TensorFlow to perform data augmentation of biomedical Raman spectra.
 
 ## Requirements
