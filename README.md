@@ -13,7 +13,7 @@ matplotlib 3.4.2 (Requires: kiwisolver, numpy, python-dateutil, pillow, pyparsin
 openpyxl=3.0.9;  
 
 For the Scavenging PCA code:  
-Our libraries: dffuncs.py, modeling.py and preprocessing.py  
+Our libraries: dffuncs.py, modeling.py and preprocessing.py;  
 numpy 1.19.2;  
 seaborn 0.11.2;  
 sklearn;
