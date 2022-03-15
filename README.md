@@ -10,7 +10,12 @@ python 3.7.11;
 pandas 1.3.3;  
 scipy 1.7.1;  
 matplotlib 3.4.2 (Requires: kiwisolver, numpy, python-dateutil, pillow, pyparsing, cycler);  
-openpyxl=3.0.9  
+openpyxl=3.0.9;  
 
-Our libraries: dffuncs.py and modeling.py are required for the scavenging PCA code.
+For the Scavenging PCA code:  
+Our libraries: dffuncs.py, modeling.py and preprocessing.py  
+numpy 1.19.2;  
+seaborn 0.11.2;  
+sklearn;
+
 
