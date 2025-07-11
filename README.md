@@ -1,12 +1,7 @@
-# citation
+# Publication
 
-Deep adversarial data augmentation for biomedical spectroscopy: Application to modelling Raman spectra of bone, E. Pavlou and N.Kourkoumelis,
-Chemometrics and Intelligent Laboratory Systems,
-Volume 228,
-2022,
-104634,
-ISSN 0169-7439,
-https://doi.org/10.1016/j.chemolab.2022.104634.
+Deep adversarial data augmentation for biomedical spectroscopy: Application to modelling Raman spectra of bone, E. Pavlou and N. Kourkoumelis,
+Chemometrics and Intelligent Laboratory Systems, 228, 2022. https://doi.org/10.1016/j.chemolab.2022.104634.
 (https://www.sciencedirect.com/science/article/pii/S0169743922001459)
 
 
